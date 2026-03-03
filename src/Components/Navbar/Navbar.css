@@ -67,11 +67,19 @@ nav {
     font-weight: 600;
     color: #0d213f;
     cursor: pointer;
+    display: flex;
+}
+
+.nav__logo img {
+    width: 45px;
+
 }
 
 /* Styling for a span within the logo */
 .nav__logo span {
     color: #3685fb;
+
+
 }
 
 /* Styling for the icon in the navbar */
